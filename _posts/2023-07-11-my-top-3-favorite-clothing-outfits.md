@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Top 3 Favorite Clothing Outfits"
-date: 2023-08-06
+date: 2023-07-11
 ---
 
 # My Top 3 Favorite Clothing Outfits
